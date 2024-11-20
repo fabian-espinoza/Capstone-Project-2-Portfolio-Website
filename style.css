@@ -1,0 +1,31 @@
+.bckgrnd {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(https://static.vecteezy.com/system/resources/previews/035/985/345/non_2x/graphic-of-electronic-pattern-or-motherboard-cpu-created-as-background-or-element-decoration-vector.jpg);
+    height: 50%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.foot {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(https://static.vecteezy.com/system/resources/previews/035/985/345/non_2x/graphic-of-electronic-pattern-or-motherboard-cpu-created-as-background-or-element-decoration-vector.jpg);
+    height: 50%;
+    
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.text {
+    color: white;
+}
+
+
+.pro {
+    text-decoration: underline;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+  }
